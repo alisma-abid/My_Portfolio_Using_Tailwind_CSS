@@ -7,7 +7,7 @@ const Skills = () => {
         <div>
             <h2 data-aos="zoom-out-down" className='text-4xl underline md:text-5xl'>Learning</h2>
             <p data-aos="zoom-in-up" className='text-gray-500 pt-4'>
-                I'am currently doing my BE in Electronics but I have a very strong interest in cybersecurity and have some practical experience on Kali Linux Software. I am also learning web devlopment and i am proficient in CSS and HTML and have some basic foundation in typesrcipt also. I am currently working in Next.js and learn so many things. I am excited to learn more in all fields to whom i related and ready to face every difficulties. Say GOOD LUCK to me!!! 
+                I&apos;am currently doing my BE in Electronics but I have a very strong interest in cybersecurity and have some practical experience on Kali Linux Software. I am also learning web devlopment and i am proficient in CSS and HTML and have some basic foundation in typesrcipt also. I am currently working in Next.js and learn so many things. I am excited to learn more in all fields to whom i related and ready to face every difficulties. Say GOOD LUCK to me!!! 
             </p>
         </div>
         <div data-aos="fade-up" data-aos-duration="3000">

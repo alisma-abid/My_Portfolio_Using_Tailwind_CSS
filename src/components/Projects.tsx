@@ -2,6 +2,7 @@ import React from 'react'
 import Heading from './Heading'
 import Card from './Card'
 
+
 const data = [
     {
         id:0,
