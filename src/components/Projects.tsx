@@ -2,7 +2,10 @@ import React from 'react'
 import Heading from './Heading'
 import Card from './Card'
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> ef34836686bc5087c62755541f173f2629bf3f50
 const data = [
     {
         id:0,
